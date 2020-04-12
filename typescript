@@ -97,4 +97,342 @@ nothing added to commit but untracked files present (use "git add" to track)
 schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
 build.gradle  settings.gradle  src  typescript	writeup.txt
 schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano writeup.txt
-[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;53H(B[0;7m[ Reading File ](B[m[28;59H(B[0;7m 1 line ](B[m[K[H(B[0;7m  GNU nano 2.9.3                                         writeup.txt                                                    [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7
+[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;53H(B[0;7m[ Reading File ](B[m[28;59H(B[0;7m 1 line ](B[m[K[H(B[0;7m  GNU nano 2.9.3                                         writeup.txt                                                    [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[3d[39;49m(B[m1) Alex Schwendeman[?12l[?25h[?25l[4d[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[4d2[?12l[?25h[?25l)[?12l[?25h[?25l [?12l[?25h[?25lp[?12l[?25h[?25ll[?12l[?25h[?25la[?12l[?25h[?25ly[?12l[?25h[?25li[?12l[?25h[?25ln[?12l[?25h[?25lg[?12l[?25h[?25l [?12l[?25h[?25lS[?12l[?25h[?25lu[?12l[?25h[?25lp[?12l[?25h[?25le[?12l[?25h[?25lr[?12l[?25h[?25l [?12l[?25h[?25lS[?12l[?25h[?25lm[?12l[?25h[?25la[?12l[?25h[?25ls[?12l[?25h[?25lh[?12l[?25h[?25l [?12l[?25h[?25lB[?12l[?25h[?25lr[28d[K[4;26H[?12l[?25h[?25lo[?12l[?25h[?25ls[?12l[?25h[?25l.[?12l[?25h[?25l [?12l[?25h[?25lU[?12l[?25h[?25ll[?12l[?25h[?25lt[?12l[?25h[?25li[?12l[?25h[?25lm[?12l[?25h[?25la[?12l[?25h[?25lt[?12l[?25h[?25le[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: writeup.txt                                                                                         [28;1H(B[m[28;32H[?12l[?25h[?25l[K[1;119H[1;111H(B[0;7m        (B[m[28;52H(B[0;7m[ Wrote 2 lines ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[4;38H[?12l[?25h[?25l[28d[J[30;120H[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   writeup.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mtypescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git add writeup.txt
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mmodified:   writeup.txt[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31mtypescript[m
+
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git add typescript
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	[32mnew file:   typescript[m
+	[32mmodified:   writeup.txt[m
+
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch usernae[Kme.txt
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano username.txt
+[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;53H(B[0;7m[ Reading File ](B[m[28;59H(B[0;7m 0 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                                         username.txt                                                   [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[3d[39;49m(B[m[?12l[?25h[?25l[1;111H(B[0;7mModified(B[m[3dA[?12l[?25h[?25ll[?12l[?25h[?25le[?12l[?25h[?25lx[?12l[?25h[?25l [?12l[?25h[?25lS[?12l[?25h[?25lc[?12l[?25h[?25lh[?12l[?25h[?25lw[?12l[?25h[?25le[?12l[?25h[?25ln[?12l[?25h[?25ld[?12l[?25h[?25le[?12l[?25h[?25lm[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25l,[?12l[?25h[?25l [?12l[?25h[?25ls[?12l[?25h[?25lc[?12l[?25h[?25lh[?12l[?25h[?25lw[?12l[?25h[?25le[?12l[?25h[?25ln[?12l[?25h[?25la[?12l[?25h[?25l3[28d[K[3;27H[?12l[?25h[?25l,[?12l[?25h[?25l [?12l[?25h[?25lA[?12l[?25h[?25ll[?12l[?25h[?25le[?12l[?25h[?25lx[?12l[?25h[?25l-[?12l[?25h[?25lS[?12l[?25h[?25lc[?12l[?25h[?25lh[?12l[?25h[?25lw[?12l[?25h[?25le[?12l[?25h[?25ln[?12l[?25h[?25ld[?12l[?25h[?25le[?12l[?25h[?25lm[?12l[?25h[?25la[?12l[?25h[?25ln[?12l[?25h[?25l[29;16H[15X[29;31H(B[0;7mM-D(B[m DOS Format[16X[29;61H(B[0;7mM-A(B[m Append[15X[29;93H(B[0;7mB(B[m Backup File[K[30;2H(B[0;7mC(B[m Cancel[16G[15X[30;31H(B[0;7mM-M(B[m Mac Format[16X[30;61H(B[0;7mM-P(B[m Prepend[19X[30;91H(B[0;7m^T(B[m To Files[K[28d(B[0;7mFile Name to Write: username.txt                                                                                        [28;1H(B[m[28;33H[?12l[?25h[?25l[K[1;119H[1;111H(B[0;7m        (B[m[28;53H(B[0;7m[ Wrote 1 line ](B[m[29;16H(B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos[93G(B[0;7mU(B[m Undo       (B[0;7mM-A(B[m Mark Text[30;2H(B[0;7mX(B[m Exit  [16G(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo       (B[0;7mM-6(B[m Copy Text[28d[3;45H[?12l[?25h[?25l[28d[J[30;120H[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git commit
+hint: Waiting for your editor to close the file... [?2004h[?1049h[22;0;0t[?1h=[?2004h[1;30r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[30;1H"~/CSCI241/Lab1/lab-1-Alex-Schwendeman/.git/COMMIT_EDITMSG" 15L, 381C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[34m# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch [m[35mmaster[m
+[34m# Your branch is ahead of '[m[35morigin/master[m[34m' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# [m[35mChanges to be committed:[m
+[34m#       [m[32mnew file[m[34m: [m[31m  typescript[m
+[34m#       [m[32mmodified[m[34m: [m[31m  writeup.txt[m
+[34m#
+# [m[35mUntracked files:[m
+[34m#       [m[31musername.txt[m
+[34m#[m
+[94m~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [m[30;103H1,0-1[9CAll[1;1H[?25h[?25l[30;93H^[[1;1H[30;95H[[1;1H[30;96H2[1;1H[30;93H    [1;1H[?25h[?25l[30;93H~@k[1;1H[30;93H   [2;1H[30;103H2,1  [2;1H[?25h[?25l[30;93H~@k[2;1H[30;93H   [3;1H[30;103H3[3;1H[?25h[?25l[30;93H~@k[3;1H[30;93H   [2;1H[30;103H2[2;1H[?25h[?25l[30;93H~@k[2;1H[30;93H   [1;1H[30;103H1,0-1[1;1H[?25h[?25l[30;93H~@k[1;1H[30;93H   [1;1H[?25h[?25l[30;93H~@k[1;1H[30;93H   [2;1H[30;103H2,1  [2;1H[?25h[?25l[30;93H~@k[2;1H[30;93H   [3;1H[30;103H3[3;1H[?25h[?25l[30;93H~@k[3;1H[30;93H   [4;1H[30;103H4[4;1H[?25h[?25l[30;93H~@k[4;1H[30;93H   [5;1H[30;103H5[5;1H[?25h[?25l[30;93H~@k[5;1H[30;93H   [6;1H[30;103H6[6;1H[?25h[?25l[30;93H~@k[6;1H[30;93H   [7;1H[30;103H7[7;1H[?25h[?25l[30;93H~@k[7;1H[30;93H   [8;1H[30;103H8[8;1H[?25h[?25l[30;93H~@k[8;1H[30;93H   [9;1H[30;103H9[9;1H[?25h[?25l[30;93H~@k[9;1H[30;93H   [10;1H[30;103H10,1[10;1H[?25h[?25l[30;93H~@k[10;1H[30;93H   [11;1H[30;104H1[11;1H[?25h[?25l[30;93H~@k[11;1H[30;93H   [12;1H[30;104H2[12;1H[?25h[?25l[30;93H~@k[12;1H[30;93H   [13;1H[30;104H3[13;1H[?25h[?25l[30;93H~@k[13;1H[30;93H   [14;1H[30;104H4[14;1H[?25h[?25l[30;93H~@k[14;1H[30;93H   [15;1H[30;104H5[15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [14;1H[30;104H4[14;1H[?25h[?25l[30;93H~@k[14;1H[30;93H   [13;1H[30;104H3[13;1H[?25h[?25l[30;93H~@k[13;1H[30;93H   [12;1H[30;104H2[12;1H[?25h[?25l[30;93H~@k[12;1H[30;93H   [13;1H[30;104H3[13;1H[?25h[?25l[30;93H~@k[13;1H[30;93H   [14;1H[30;104H4[14;1H[?25h[?25l[30;93H~@k[14;1H[30;93H   [15;1H[30;104H5[15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [15;1H[?25h[?25l[30;93H<20>[15;1H[30;93H    [15;1H[?25h[?25l[30;93H<20>[15;1H[30;93H    [15;1H[?25h[?25l[30;93H"[15;1H[?25h[?25l[30;94H^M[15;1H[30;93H   [15;1H[?25h[?25l[30;93H^M[15;1H[30;93H  [15;1H[?25h[?25l[30;93H^M[15;1H[30;93H  [15;1H[?25h[?25l[30;93H^M[15;1H[30;93H  [15;1H[?25h[?25l[30;93H^M[15;1H[30;93H  [15;1H[?25h[?25l[30;93H^[[15;1H[30;93H  [15;1H[30;93H^[[15;1H[30;93H  [15;1H[?25h[?25l[30;93H~@k[15;1H[30;93H   [14;1H[30;104H4[14;1H[?25h[?25l[30;93H~@k[14;1H[30;93H   [13;1H[30;104H3[13;1H[?25h[?25l[30;93H~@k[13;1H[30;93H   [12;1H[30;104H2[12;1H[?25h[?25l[30;93H~@k[12;1H[30;93H   [11;1H[30;104H1[11;1H[?25h[?25l[30;93H~@k[11;1H[30;93H   [10;1H[30;104H0[10;1H[?25h[?25l[30;93H~@k[10;1H[30;93H   [9;1H[30;103H9,1 [9;1H[?25h[?25l[30;93H~@k[9;1H[30;93H   [8;1H[30;103H8[8;1H[?25h[?25l[30;93H~@k[8;1H[30;93H   [7;1H[30;103H7[7;1H[?25h[?25l[30;93H~@k[7;1H[30;93H   [7;2H[30;105H2[7;2H[?25h[?25l[30;93H~@k[7;2H[30;93H   [7;3H[30;105H3[7;3H[?25h[?25l[30;93H~@k[7;3H[30;93H   [7;4H[30;105H4[7;4H[?25h[?25l[30;93H~@k[7;4H[30;93H   [7;5H[30;105H5[7;5H[?25h[?25l[30;93H~@k[7;5H[30;93H   [7;6H[30;105H6[7;6H[?25h[?25l[30;93H~@k[7;6H[30;93H   [7;7H[30;105H7[7;7H[?25h[?25l[30;93H~@k[7;7H[30;93H   [7;8H[30;105H8[7;8H[?25h[?25l[30;93H~@k[7;8H[30;93H   [7;9H[30;105H9[7;9H[?25h[?25l[30;93H~@k[7;9H[30;93H   [7;10H[30;105H10[7;10H[?25h[?25l[30;93H~@k[7;10H[30;93H   [7;11H[30;106H1[7;11H[?25h[?25l[30;93H~@k[7;11H[30;93H   [7;12H[30;106H2[7;12H[?25h[?25l[30;93H~@k[7;12H[30;93H   [7;13H[30;106H3[7;13H[?25h[?25l[30;93H~@k[7;13H[30;93H   [7;14H[30;106H4[7;14H[?25h[?25l[30;93H~@k[7;14H[30;93H   [7;15H[30;106H5[7;15H[?25h[?25l[30;93H~@k[7;15H[30;93H   [7;16H[30;106H6[7;16H[?25h[?25l[30;93H~@k[7;16H[30;93H   [7;17H[30;106H7[7;17H[?25h[?25l[30;93H~@k[7;17H[30;93H   [7;18H[30;106H8[7;18H[?25h[?25l[30;93H~@k[7;18H[30;93H   [7;19H[30;106H9[7;19H[?25h[?25l[30;93H~@k[7;19H[30;93H   [7;20H[30;105H20[7;20H[?25h[?25l[30;93H~@k[7;20H[30;93H   [7;21H[30;106H1[7;21H[?25h[?25l[30;93H~@k[7;21H[30;93H   [7;22H[30;106H2[7;22H[?25h[?25l[30;93H~@k[7;22H[30;93H   [7;23H[30;106H3[7;23H[?25h[?25l[30;93H~@k[7;23H[30;93H   [7;24H[30;106H4[7;24H[?25h[?25l[30;93H~@k[7;24H[30;93H   [7;25H[30;106H5[7;25H[?25h[?25l[30;93H~@k[7;25H[30;93H   [7;26H[30;106H6[7;26H[?25h[?25l[30;93H~@k[7;26H[30;93H   [7;27H[30;106H7[7;27H[?25h[?25l[30;93H~@k[7;27H[30;93H   [7;28H[30;106H8[7;28H[?25h[?25l[30;93H~@k[7;28H[30;93H   [7;29H[30;106H9[7;29H[?25h[?25l[30;93H~@k[7;29H[30;93H   [7;30H[30;105H30[7;30H[?25h[?25l[30;93H~@k[7;30H[30;93H   [7;31H[30;106H1[7;31H[?25h[?25l[30;93H~@k[7;31H[30;93H   [7;32H[30;106H2[7;32H[?25h[?25l[30;93H~@k[7;32H[30;93H   [7;33H[30;106H3[7;33H[?25h[?25l[30;93H~@k[7;33H[30;93H   [7;34H[30;106H4[7;34H[?25h[?25l[30;93H~@k[7;34H[30;93H   [7;35H[30;106H5[7;35H[?25h[?25l[30;93H~@k[7;35H[30;93H   [7;36H[30;106H6[7;36H[?25h[?25l[30;93H~@k[7;36H[30;93H   [7;37H[30;106H7[7;37H[?25h[?25l[30;93H~@k[7;37H[30;93H   [7;38H[30;106H8[7;38H[?25h[?25l[30;93H~@k[7;38H[30;93H   [7;39H[30;106H9[7;39H[?25h[?25l[30;93H~@k[7;39H[30;93H   [7;40H[30;105H40[7;40H[?25h[?25l[30;93H~@k[7;40H[30;93H   [7;41H[30;106H1[7;41H[?25h[?25l[30;93H~@k[7;41H[30;93H   [7;42H[30;106H2[7;42H[?25h[?25l[30;93H~@k[7;42H[30;93H   [7;43H[30;106H3[7;43H[?25h[?25l[30;93H~@k[7;43H[30;93H   [7;44H[30;106H4[7;44H[?25h[?25l[30;93H~@k[7;44H[30;93H   [7;45H[30;106H5[7;45H[?25h[?25l[30;93H~@k[7;45H[30;93H   [7;46H[30;106H6[7;46H[?25h[?25l[30;93H~@k[7;46H[30;93H   [7;47H[30;106H7[7;47H[?25h[?25l[30;93H~@k[7;47H[30;93H   [7;48H[30;106H8[7;48H[?25h[?25l[30;93H~@k[7;48H[30;93H   [7;49H[30;106H9[7;49H[?25h[?25l[30;93H~@k[7;49H[30;93H   [7;50H[30;105H50[7;50H[?25h[?25l[30;93H~@k[7;50H[30;93H   [6;50H[30;103H6[6;50H[?25h[?25l[30;93H~@k[6;50H[30;93H   [5;18H[30;103H5,18[5;18H[?25h[?25l[30;93H~@k[5;18H[30;93H   [4;1H[30;103H4,1 [4;1H[?25h[?25l[30;93H~@k[4;1H[30;93H   [3;50H[30;103H3,50[3;50H[?25h[?25l[30;93H~@k[3;50H[30;93H   [2;50H[30;103H2[2;50H[?25h[?25l[30;93H~@k[2;50H[30;93H   [1;1H[30;103H1,0-1[1;1H[?25h[?25l[30;93H~@k[1;1H[30;93H   [1;1H[?25h[?25l[30;93H~@k[1;1H[30;93H   [1;1H[?25h[?25l[30;93H"[1;1H[?25h[?25l[30;94H"[1;1H[?25h[?25l[30;95H~@k[1;1H[30;93H     [1;1H[?25h[?25l[30;93H"[1;1H[?25h[?25l[30;94HA[1;1H[?25h[?25l[30;95Hd[1;1H[?25h[?25l[30;96Hd[1;1H[30;93H    [1;1H[1;29r[29;1H
+[1;30r[29;1H[94m~                                             Script started on 2020-04-09 20:35:30-0700
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nanon[K s[Ktysp[K[Kpescript
+[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;53H(B[0;7m[ Reading File ](B[m[28;52H(B[0;7m[ Read 165 lines ](B[m[H(B[0;7m  GNU nano 2.9.3                                          typescript                                                    [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[3d[39;49m(B[mScript started on 2020-04-09 18:06:18-0700[4dschwena3@cf405-17:~/CSCI241/Lab1$ git clone ^V^H^H^[[K^H^[[K https://github.com/csci241-20s/lab-1-Alex-Schwendeman[5dCloning into 'lab-1-Alex-Schwendeman'...[6dremote: Enumerating objects: 14, done.^[[K[7dremote: Counting objects:   7% (1/14)^[[K^Mremote: Counting objects:  14% (2/14)^[[K^Mremote: Counting objects:  21% (3$[8;1Hremote: Compressing objects:  12% (1/8)^[[K^Mremote: Compressing objects:  25% (2/8)^[[K^Mremote: Compressing objects: $[9;1Hremote: Total 14 (delta 2), reused 0 (delta 0), pack-reused 0^[[K[10dUnpacking objects:   7% (1/14)   ^MUnpacking objects:  14% (2/14)   ^MUnpacking objects:  21% (3/14)   ^MUnpacking obje$[11;1Hschwena3@cf405-17:~/CSCI241/Lab1$ ls[12dlab-1-Alex-Schwendeman  typescript[13dschwena3@cf405-17:~/CSCI241/Lab1$ git config --gloa^H^[[Kbal user.name "Alex Schwendeman"[14dschwena3@cf405-17:~/CSCI241/Lab1$ git config --global s^H^[[Kuser.email schwena3@wwu.edu[15dschwena3@cf405-17:~/CSCI241/Lab1$ touch writeup.txt[16dschwena3@cf405-17:~/CSCI241/Lab1$ git add writeup.txt # ^H^[[K^H^[[K^H^[[K^H^[[Kt[17dfatal: not a git repository (or any parent up to mount point /)[18dStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).[19dschwena3@cf405-17:~/CSCI241/Lab1$ ls[20dlab-1-Alex-Schwendeman  typescript  writeup.txt[21dschwena3@cf405-17:~/CSCI241/Lab1$ git add writeup.txt[22dfatal: not a git repository (or any parent up to mount point /)[23dStopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).[24dschwena3@cf405-17:~/CSCI241/Lab1$ "git add help^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K^H^[[K$[25;1H^[[?1049h^[[22;0;0t^[[?1h^[=^MGIT-ADD(1)[25;85HGit Manual[120G$[26;1H^[[m[27d^[[1mNAME^[[0m^[[m[3d[?12l[?25h[?25l[28d[J[30;120H[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano write[K[K[K[K[K[K[K[K[K[K
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano username.txt
+[?1049h[22;0;0t[1;30r(B[m[4l[?7h[39;49m[?1h=[?1h=[?1h=[?25l[39;49m(B[m[H[2J[28;53H(B[0;7m[ Reading File ](B[m[28;59H(B[0;7m 1 line ](B[m[K[H(B[0;7m  GNU nano 2.9.3                                         username.txt                                                   [1;119H(B[m[29d(B[0;7m^G(B[m Get Help    (B[0;7m^O(B[m Write Out   (B[0;7m^W(B[m Where Is    (B[0;7m^K(B[m Cut Text    (B[0;7m^J(B[m Justify     (B[0;7m^C(B[m Cur Pos     (B[0;7mM-U(B[m Undo[106G(B[0;7mM-A(B[m Mark Text[30d(B[0;7m^X(B[m Exit[30;16H(B[0;7m^R(B[m Read File   (B[0;7m^\(B[m Replace     (B[0;7m^U(B[m Uncut Text  (B[0;7m^T(B[m To Spell    (B[0;7m^_(B[m Go To Line  (B[0;7mM-E(B[m Redo[106G(B[0;7mM-6(B[m Copy Text[28d[3d[39;49m(B[mAlex Schwendeman, schwena3, Alex-Schwendeman[?12l[?25h[?25l[28d[J[30;120H[?12l[?25h[30;1H[?1049l[23;0;0t[?1l>schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git add username.txt
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git commit -m "Created username.txt and provided first and last  name, username[K[K[K[K[K[K[K[KWWU username, and GitHub username."[K[K"
+[master d44acd9] Created username.txt and provided first and last name, WWU username, and GitHub username
+ 3 files changed, 102 insertions(+)
+ create mode 100644 typescript
+ create mode 100644 username.txt
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git checkout
+M	typescript
+Your branch is ahead of 'origin/master' by 2 commits.
+  (use "git push" to publish your local commits)
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git push
+Username for 'https://github.com': Alex-Schwendeman
+Password for 'https://Alex-Schwendeman@github.com': 
+Counting objects: 8, done.
+Delta compression using up to 8 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 5.61 KiB | 820.00 KiB/s, done.
+Total 8 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To https://github.com/csci241-20s/lab-1-Alex-Schwendeman
+   3ec4857..d44acd9  master -> master
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git[K[K[Kclear
+[3J[H[2Jschwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git checkout
+M	typescript
+Your branch is up to date with 'origin/master'.
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummy
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  dummy  settings.gradle  src  typescript  username.txt  writeup.txt
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummy
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ clear
+[3J[H[2Jschwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git mv [K[K[K[K[K[K[Ktouch c[Kdummy
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git mv dummy
+usage: git mv [<options>] <source>... <destination>
+
+    -v, --verbose         be verbose
+    -n, --dry-run         dry run
+    -f, --force           force move/rename even if target exists
+    -k                    skip move/rename errors
+
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git mv dummy CSCI@%[K[K241
+fatal: not under version control, source=dummy, destination=CSCI241
+schwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ clear
+[3J[H[2Jschwena3@cf162-07:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git blame
+usage: git blame [<options>] [<rev-opts>] [<rev>] [--] <file>
+
+    <rev-opts> are documented in git-rev-list(1)
+
+    --incremental         Show blame entries as we find them, incrementally
+    -b                    Show blank SHA-1 for boundary commits (Default: off)
+    --root                Do not treat root commits as boundaries (Default: off)
+    --show-stats          Show work cost statistics
+    --progress            Force progress reporting
+    --score-debug         Show output score for blame entries
+    -f, --show-name       Show orScript started on 2020-04-09 20:43:50-0700
+schwena3@cf164-09:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ exo[Kit[K[K[K[Kgit push
+Username for 'https://github.com': ZSS.    Alex-Schwendeman
+Password for 'https://Alex-Schwendeman@github.com': 
+Everything up-to-date
+schwena3@cf164-09:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ exit
+exit
+
+Script done on 2020-04-09 20:44:58-0700
+Script started on 2020-04-10 08:40:27-0700
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummy.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummy.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummyfolder
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummy [K.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ mv dummy.txt dummyfolder
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  dummy  dummyfolder  settings.gradle  src	typescript  username.txt  writeup.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummy
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  dummyfolder  settings.gradle  src  typescript  username.txt  writeup.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummyfolder
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ clear
+[3J[H[2Jschwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git blame writeup.txt
+[?1h=ffd3ceaf (Alex Schwendeman 2020-04-09 20:29:03 -0700 1) 1) Alex Schwendeman[m
+d44acd9b (Alex Schwendeman 2020-04-09 20:37:48 -0700 2) 2) playing Super Smash Bros. Ultimate[m
+[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git log
+[?1h=[33mcommit d44acd9bb0d0d10eacefbf108b2e1ca664bb0efd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Alex Schwendeman <schwena3@wwu.edu>[m
+Date:   Thu Apr 9 20:37:48 2020 -0700[m
+[m
+    Created username.txt and provided first and last name, WWU username, and GitHub username[m
+[m
+[33mcommit ffd3ceaf12d0da964557db2973ddcb79413e0500[m[m
+Author: Alex Schwendeman <schwena3@wwu.edu>[m
+Date:   Thu Apr 9 20:29:03 2020 -0700[m
+[m
+    Added part 1 (names) to writeup[m
+[m
+[33mcommit 3ec485762c6ffc5ff7059f3bd351371f9e3ae999[m[m
+Author: Alex Schwendeman <schwena3@wwu.edu>[m
+Date:   Thu Apr 9 20:14:55 2020 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 916ebe5b3a88527a719ce666035d9d1a893cb720[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Thu Apr 9 18:07:26 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+[m
+[33mcommit 337c914438b4a3962c598de829f9e6231c58434a[m[33m ([m[1;31morigin/feedback[m[33m)[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Thu Apr 9 18:07:25 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+:[K[K[m
+:[K[K[33mcommit fb4220e1a8377016277d34584721cf79d1f68913[m[m
+:[K[KAuthor: swehrwein <swehrwein@gmail.com>[m
+:[K[KDate:   Thu Apr 9 18:07:24 2020 -0700[m
+:[K[K[m
+:[K[K    Initial commit[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff writeup.txt
+[?1h=[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff
+[?1h=[1mdiff --git a/typescript b/typescript[m[m
+[1mindex f13e993..5044eb2 100644[m[m
+[1m--- a/typescript[m[m
+[1m+++ b/typescript[m[m
+[36m@@ -97,4 +97,143 @@[m [mnothing added to commit but untracked files present (use "git add" to track)[m[m
+ schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls[m[m
+ build.gradle  settings.gradle  src  typescript writeup.txt[m[m
+ schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano writeup.txt[m[m
+[31m-[m[39;49m[39;49m[m[0;7m[ Reading File ][m[0;7m 1 line ][m[0;7m  GNU nano 2.9.3                                         writeup.txt                          [m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                          [m[7m^M[27m[0;7m^G[m Get Help    [0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justify     [0;7m^C[m Cur Pos     [0;7mM-[m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mU[m Undo[0;7mM-A[m Mark Text[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To Line  [0;7mM-E[m Redo[m[m
+\ No newline at end of file[m[m
+[32m+[m[32m[m[39;49m[39;49m[m[0;7m[ Reading File ][m[0;7m 1 line ][m[0;7m  GNU nano 2.9.3                                         writeup.txt                          [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                          [m[7m^M[27m[0;7m^G[m Get Help    [0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justify     [0;7m^C[m Cur Pos     [0;7mM-[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mU[m Undo[0;7mM-A[m Mark Text[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To Line  [0;7mM-E[m Redo[0;7mM-6[m Copy [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mText[7m^M[27m[39;49m[m1) Alex Schwendeman[7m^M[27m[0;7mModified[m[7m^M[27m2) playing Super Smash Br[7m^M[27mos. Ultimate[0;7mM-D[m DOS Format[0;7mM-A[m Append[0;7mB[m Backup File[0;7mC[m Cance[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[ml[0;7mM-M[m Mac Format[0;7mM-P[m Prepend[0;7m^T[m To Files[7m^M[27m[0;7mFile Name to Write: writeup.txt                                                  [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m                                       [m[7m^M[27m[0;7m        [m[0;7m[ Wrote 2 lines ][m[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justif[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[my     [0;7m^C[m Cur Pos[0;7mU[m Undo       [0;7mM-A[m Mark Text[0;7mX[m Exit  [0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To L[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mine  [0;7mM-E[m Redo       [0;7mM-6[m Copy Text[7m^M^M^M[27mschwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status[m[41m[7m^M[27m[m[m
+[32m+[m[32mOn branch master[m[41m[7m^M[27m[m[m
+[32m+[m[32mYour branch is ahead of 'origin/master' by 1 commit.[m[41m[7m^M[27m[m[m
+[32m+[m[32m  (use "git push" to publish your local commits)[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+[32m+[m[32m  (use "git add <file>..." to update what will be committed)[m[41m[7m^M[Script started on 2020-04-10 08:38:59-0700
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git checkeout
+git: 'checkeout' is not a git command. See 'git --help'.
+
+The most similar command is
+	checkout
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git reset
+Unstaged changes after reset:
+M	typescript
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git [K[K[K[Kscript -a
+Script started, file is typescript
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummy.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummy.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummyfolder
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ touch dummy [K.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ mv dummy.txt dummyfolder
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  dummy  dummyfolder  settings.gradle  src	typescript  username.txt  writeup.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummy
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  dummyfolder  settings.gradle  src  typescript  username.txt  writeup.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ rm dummyfolder
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls
+build.gradle  settings.gradle  src  typescript	username.txt  writeup.txt
+schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ clear
+[3J[H[2Jschwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git blame writeup.txt
+[?1h=ffd3ceaf (Alex Schwendeman 2020-04-09 20:29:03 -0700 1) 1) Alex Schwendeman[m
+d44acd9b (Alex Schwendeman 2020-04-09 20:37:48 -0700 2) 2) playing Super Smash Bros. Ultimate[m
+[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git log
+[?1h=[33mcommit d44acd9bb0d0d10eacefbf108b2e1ca664bb0efd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Alex Schwendeman <schwena3@wwu.edu>[m
+Date:   Thu Apr 9 20:37:48 2020 -0700[m
+[m
+    Created username.txt and provided first and last name, WWU username, and GitHub username[m
+[m
+[33mcommit ffd3ceaf12d0da964557db2973ddcb79413e0500[m[m
+Author: Alex Schwendeman <schwena3@wwu.edu>[m
+Date:   Thu Apr 9 20:29:03 2020 -0700[m
+[m
+    Added part 1 (names) to writeup[m
+[m
+[33mcommit 3ec485762c6ffc5ff7059f3bd351371f9e3ae999[m[m
+Author: Alex Schwendeman <schwena3@wwu.edu>[m
+Date:   Thu Apr 9 20:14:55 2020 -0700[m
+[m
+    Added empty writeup[m
+[m
+[33mcommit 916ebe5b3a88527a719ce666035d9d1a893cb720[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Thu Apr 9 18:07:26 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+[m
+[33mcommit 337c914438b4a3962c598de829f9e6231c58434a[m[33m ([m[1;31morigin/feedback[m[33m)[m[m
+Author: swehrwein <swehrwein@gmail.com>[m
+Date:   Thu Apr 9 18:07:25 2020 -0700[m
+[m
+    Setting up GitHub Classroom Feedback[m
+:[K[K[m
+:[K[K[33mcommit fb4220e1a8377016277d34584721cf79d1f68913[m[m
+:[K[KAuthor: swehrwein <swehrwein@gmail.com>[m
+:[K[KDate:   Thu Apr 9 18:07:24 2020 -0700[m
+:[K[K[m
+:[K[K    Initial commit[m
+:[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff writeup.txt
+[?1h=[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff
+[?1h=[1mdiff --git a/typescript b/typescript[m[m
+[1mindex f13e993..5044eb2 100644[m[m
+[1m--- a/typescript[m[m
+[1m+++ b/typescript[m[m
+[36m@@ -97,4 +97,143 @@[m [mnothing added to commit but untracked files present (use "git add" to track)[m[m
+ schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls[m[m
+ build.gradle  settings.gradle  src  typescript writeup.txt[m[m
+ schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano writeup.txt[m[m
+[31m-[m[39;49m[39;49m[m[0;7m[ Reading File ][m[0;7m 1 line ][m[0;7m  GNU nano 2.9.3                                         writeup.txt                          [m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                          [m[7m^M[27m[0;7m^G[m Get Help    [0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justify     [0;7m^C[m Cur Pos     [0;7mM-[m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mU[m Undo[0;7mM-A[m Mark Text[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To Line  [0;7mM-E[m Redo[m[m
+\ No newline at end of file[m[m
+[32m+[m[32m[m[39;49m[39;49m[m[0;7m[ Reading File ][m[0;7m 1 line ][m[0;7m  GNU nano 2.9.3                                         writeup.txt                          [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                          [m[7m^M[27m[0;7m^G[m Get Help    [0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justify     [0;7m^C[m Cur Pos     [0;7mM-[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mU[m Undo[0;7mM-A[m Mark Text[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To Line  [0;7mM-E[m Redo[0;7mM-6[m Copy [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mText[7m^M[27m[39;49m[m1) Alex Schwendeman[7m^M[27m[0;7mModified[m[7m^M[27m2) playing Super Smash Br[7m^M[27mos. Ultimate[0;7mM-D[m DOS Format[0;7mM-A[m Append[0;7mB[m Backup File[0;7mC[m Cance[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[ml[0;7mM-M[m Mac Format[0;7mM-P[m Prepend[0;7m^T[m To Files[7m^M[27m[0;7mFile Name to Write: writeup.txt                                                  [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m                                       [m[7m^M[27m[0;7m        [m[0;7m[ Wrote 2 lines ][m[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justif[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[my     [0;7m^C[m Cur Pos[0;7mU[m Undo       [0;7mM-A[m Mark Text[0;7mX[m Exit  [0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To L[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mine  [0;7mM-E[m Redo       [0;7mM-6[m Copy Text[7m^M^M^M[27mschwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status[m[41m[7m^M[27m[m[m
+[32m+[m[32mOn branch 27m[m[m
+[32m+[m[32m  (use "git checkout -- <file>..." to discard changes in working directory)[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m       [32m[31mmodified:   writeup.txt[m[m[41m[7m^M[27m[m[m
+:[K[K[?1l>schwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ clear
+[3J[H[2Jschwena3@cf405-17:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ exit
+exit
+
+Script done on 2020-04-10 08:48:46-0700
+Script started on 2020-04-10 10:15:44-0700
+schwena3@cf162-06:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff writeup.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit diff writeup.txt
+[?1h=[K[?1l>schwena3@cf162-06:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   typescript[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+schwena3@cf162-06:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff typescript
+[?1h=[1mdiff --git a/typescript b/typescript[m[m
+[1mindex f13e993..465abb2 100644[m[m
+[1m--- a/typescript[m[m
+[1m+++ b/typescript[m[m
+[36m@@ -97,4 +97,301 @@[m [mnothing added to commit but untracked files present (use "git add" to track)[m[m
+ schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ ls[m[m
+ build.gradle  settings.gradle  src  typescript writeup.txt[m[m
+ schwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ nano writeup.txt[m[m
+[31m-[m[39;49m[39;49m[m[0;7m[ Reading File ][m[0;7m 1 line ][m[0;7m  GNU nano 2.9.3                                         writeup.txt                          [m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                          [m[7m^M[27m[0;7m^G[m Get Help    [0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justify     [0;7m^C[m Cur Pos     [0;7mM-[m [31m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mU[m Undo[0;7mM-A[m Mark Text[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To Line  [0;7mM-E[m Redo[m[m
+\ No newline at end of file[m[m
+[32m+[m[32m[m[39;49m[39;49m[m[0;7m[ Reading File ][m[0;7m 1 line ][m[0;7m  GNU nano 2.9.3                                         writeup.txt                          [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m                          [m[7m^M[27m[0;7m^G[m Get Help    [0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justify     [0;7m^C[m Cur Pos     [0;7mM-[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7mU[m Undo[0;7mM-A[m Mark Text[7m^M[27m[0;7m^X[m Exit[0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To Line  [0;7mM-E[m Redo[0;7mM-6[m Copy [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mText[7m^M[27m[39;49m[m1) Alex Schwendeman[7m^M[27m[0;7mModified[m[7m^M[27m2) playing Super Smash Br[7m^M[27mos. Ultimate[0;7mM-D[m DOS Format[0;7mM-A[m Append[0;7mB[m Backup File[0;7mC[m Cance[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[ml[0;7mM-M[m Mac Format[0;7mM-P[m Prepend[0;7m^T[m To Files[7m^M[27m[0;7mFile Name to Write: writeup.txt                                                  [m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m                                       [m[7m^M[27m[0;7m        [m[0;7m[ Wrote 2 lines ][m[0;7m^O[m Write Out   [0;7m^W[m Where Is    [0;7m^K[m Cut Text    [0;7m^J[m Justif[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[my     [0;7m^C[m Cur Pos[0;7mU[m Undo       [0;7mM-A[m Mark Text[0;7mX[m Exit  [0;7m^R[m Read File   [0;7m^\[m Replace     [0;7m^U[m Uncut Text  [0;7m^T[m To Spell    [0;7m^_[m Go To L[m [32m[m[32m[m[39;49m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[39;49m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[m[0;7m[mine  [0;7mM-E[m Redo       [0;7mM-6[m Copy Text[7m^M^M^M[27mschwena3@cf405-19:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git status[m[41m[7m^M[27m[m[m
+[32m+[m[32mOn branch master[m[41m[7m^M[27m[m[m
+[32m+[m[32mYour branch is ahead of 'origin/master' by 1 commit.[m[41m[7m^M[27m[m[m
+[32m+[m[32m  (use "git push" to publish your local commits)[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m[32mChanges not staged for commit:[m[41m[7m^M[27m[m[m
+[32m+[m[32m  (use "git add <file>..." to update what will be committed)[m[41m[7m^M[27m[m[m
+[32m+[m[32m  (use "git checkout -- <file>..." to discard changes in working directory)[m[41m[7m^M[27m[m[m
+[32m+[m[41m[7m^M[27m[m[m
+[32m+[m       [32m[31mmodified:   writeup.txt[m[m[41m[7m^M[27m[m[m
+:[K[K[?1l>schwena3@cf162-06:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ git diff writeup.txt HEAD~1
+fatal: HEAD~1: no such path in the working tree.
+Use 'git <command> -- <path>...' to specify paths that do not exist locally.
+schwena3@cf162-06:~/CSCI241/Lab1/lab-1-Alex-Schwendeman$ exit
+exit
+
+Script done on 2020-04-10 10:23:06-0700
